@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "Demo Farmer",
+    "location": "Ashta, Madhya Pradesh",
+    "farmName": "Green Acres",
+    "area": 2.5,
+    "crop": "Soybean",
+    "soil": "Not tested",
+    "language": "English",
+    "reminders": true,
+    "aiConsent": false
+  },
+  "records": [
+    {
+      "id": "45381701-b00a-490c-a948-c12050e22abe",
+      "date": "2026-09-14",
+      "type": "expense",
+      "category": "Seeds",
+      "amount": 3200,
+      "note": "Sample entry",
+      "sample": true
+    },
+    {
+      "id": "358b86ca-9952-435a-bc33-245a3431c3fa",
+      "date": "2026-09-14",
+      "type": "expense",
+      "category": "Labour",
+      "amount": 1800,
+      "note": "Sample entry",
+      "sample": true
+    }
+  ],
+  "conversations": [],
+  "reports": [],
+  "reminders": []
+}
